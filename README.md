@@ -4,4 +4,4 @@
 
 ## Golang
 ## Golang Documentation : https://golang.org/doc/
-## Contributors: Todd Mcleon
+
